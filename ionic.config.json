@@ -1,0 +1,8 @@
+{
+  "name": "GymTech",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c9b06faa"
+}
